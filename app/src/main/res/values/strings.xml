@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hill</string>
+    <string name="start_btn">Let\'s get started!</string>
+    <string name="hill_info"><u> What is Hill?</u></string>
+    <string name="zipcode_hint">Zip Code</string>
+    <!-- string resources for hill info fragment -->
+    <string name="hill_descr">Hill is an app intended to help initiate a long-term lifeline,
+                  hence the name. About a third of U.S. adults have no additional money set
+                  aside for retirement. Social Security alone does not provide enough financial
+                  security for seniors. With an average annual amount of $18,000, many seniors might
+                  discover they are unable to retire. But with a quick search of available
+                  retirement accounts, you can start planning for a worry-free retirement! Are you
+                  ready to establish your lifeline?</string>
+    <string name="infoCloseBtn">Close</string>
+    <string name="infoGoBtn">Let\'s go!</string>
+    <!--end string resource -->
+    <!-- string resources for select IRA activity -->
+    <string name="rothIraRadioBtn">Roth IRA</string>
+    <string name="tradIraRadioBtn">Traditional IRA</string>
+    <string name="whichBtn"><u>Which one is best?</u></string>
+    <string name="whichIraPara">Roth IRAs are for individuals who want their money to grow tax-free.
+                  Traditional IRAs are for individuals who want to delay paying taxes until you
+                  withdraw funds from your account during retirement. Basically, you are determining
+                  when and how you will get your tax break. </string>
+    <string name="searchBtn1">Search</string>
+
+    <!--end string resource -->
+</resources>
