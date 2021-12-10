@@ -19,10 +19,10 @@ public class IraWebView extends AppCompatActivity
     @Override
     protected void onCreate( Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ira_web_view);
+       // setContentView(R.layout.activity_ira_web_view);
         //find webview
-        iraWebView = findViewById(R.id.iraWebViewId);
-        iraWebView.getSettings().setJavaScriptEnabled(true);
+        //iraWebView = findViewById(R.id.iraWebViewId);
+       // iraWebView.getSettings().setJavaScriptEnabled(true);
         //iraWebView.loadUrl(tIraQuery);
         //canGoBack = iraWebView.canGoBack();
     }
